@@ -1,6 +1,6 @@
 ### Hi there, I'm Dilmith 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilmithwathsala/)](https://www.linkedin.com/in/dilmithwathsala/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilmith-wathsala/)](https://www.linkedin.com/in/dilmithwathsala/)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dilmithwathsala/)](https://www.instagram.com/dilmithwathsala/)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dilmithwathsala/)](https://www.facebook.com/dilmithwathsala/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dilmithwathsala/)](https://twitter.com/@DilmithWathsala/)
