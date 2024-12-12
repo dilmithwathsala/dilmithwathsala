@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dilmithwathsala/)](https://www.facebook.com/dilmithwathsala/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dilmithwathsala/)](https://twitter.com/@dilmithWathsala/)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://d/)](https://dilmithwathsala.github.io)
-[![Medium](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://d/)](https://medium.com/@dilmithwathsala)
+[![Medium](https://img.shields.io/badge/Medium-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://d/)](https://medium.com/@dilmithwathsala)
 
 <!-- ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
