@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilmithwathsala" alt="dilmithwathsala" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dilmithwathsala" target="blank"><img src="https://img.shields.io/twitter/follow/dilmithwathsala?logo=twitter&style=for-the-badge" alt="dilmithwathsala" /></a> </p>
 
 - 🔭 I’m currently working on **Tour Guide AI Based Application**
 
@@ -13,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [dilmithwathsala.gihub.io](dilmithwathsala.gihub.io)
+- 👨‍💻 All of my projects are available at [dilmithwathsala.github.io](dilmithwathsala.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@dilmithwathsala](https://medium.com/@dilmithwathsala)
 
@@ -30,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dilmithwathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilmithwathsala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dilmith wathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilmith wathsala" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dilmith wathsala](https://www.linkedin.com/in/dilmith-wathsala/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilmith wathsala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/dilmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dilmith" height="30" width="40" /></a>
 <a href="https://kaggle.com/dilmithwathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilmithwathsala" height="30" width="40" /></a>
 <a href="https://fb.com/dilmith wathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilmith wathsala" height="30" width="40" /></a>
