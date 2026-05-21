@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilmith Wathsala</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate manual software tester from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmithwathsala&label=Profile%20views&color=0e75b6&style=flat" alt="dilmithwathsala" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Tour Guide AI Based Application**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Manual testing**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
